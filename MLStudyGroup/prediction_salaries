@@ -1,0 +1,3 @@
+there are 3 csv files -- "train_salaries_2013-03-07.csv" has features of each jobID, "train_salaries_2013-03-07.csv" has salaries of each jobID.
+
+The task is to predict salaries of jobs for "test_features_2013-03-07.csv", into another csv file named "test_salaries_2013-03-07.csv" with same format as "train_salaries_2013-03-07.csv"
